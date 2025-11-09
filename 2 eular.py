@@ -4,7 +4,7 @@ def a(s):
 q=0
 d=0
 f=1
-while(d<4000000):
+while(d<30):
     g=d+f
     d=f
     f=g
